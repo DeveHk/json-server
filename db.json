@@ -1,52 +1,16 @@
 {
   "students": [
     {
-      "name": "harsh",
-      "rollnumber": "12561",
-      "email": "sdsd",
-      "id": 8
+      "name": "Harsh Kumar",
+      "rollnumber": "UMP134",
+      "email": "stu@email.com",
+      "id": 5
     },
     {
-      "name": "harsh Kumar",
-      "rollnumber": "acae1422",
-      "email": "aefc",
-      "id": 9
-    },
-    {
-      "name": "kjnack.",
-      "rollnumber": "awdckk",
-      "email": "asnkaw",
-      "id": 10
-    },
-    {
-      "name": "savs",
-      "rollnumber": "sdvaw",
-      "email": "vvdsfv",
-      "id": 11
-    },
-    {
-      "name": "ascasc",
-      "rollnumber": "ascae",
-      "email": "sdcse",
-      "id": 12
-    },
-    {
-      "name": "ascasc",
-      "rollnumber": "ascae",
-      "email": "sdcse",
-      "id": 13
-    },
-    {
-      "name": "ascasc",
-      "rollnumber": "ascae",
-      "email": "sdcse",
-      "id": 14
-    },
-    {
-      "name": "harsh",
-      "rollnumber": "adiaklc",
-      "email": "asara",
-      "id": 15
+      "name": "student 3",
+      "rollnumber": "UMP157",
+      "email": "coll@email.com",
+      "id": 6
     }
   ]
 }
